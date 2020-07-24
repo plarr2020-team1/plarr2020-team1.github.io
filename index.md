@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+In the time of a pandemic, it is important to keep a minimum distance from others to prevent
+the spread of disease. However, it is not easy to measure this distance in real life. To help this
+issue, we aim to build a visual assistant to track the own distance from others on the street.
 
-You can use the [editor on GitHub](https://github.com/plarr2020-team1/plarr2020-team1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Assuming there is a user with a monocular mobile phone camera, webcam, or video we detect humans, estimate their depths from RGB image and build a warning
+mechanism.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Pipeline
 
-### Markdown
+![Pipeline](pipeline)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Application
 
-```markdown
-Syntax highlighted code block
+- Mobile application: [https://github.com/plarr2020-team1/flutter_app](https://github.com/plarr2020-team1/flutter_app)
+- Video or webcam application: [https://github.com/plarr2020-team1/application](https://github.com/plarr2020-team1/application)
 
-# Header 1
-## Header 2
-### Header 3
+#### Monocular depth estimation
 
-- Bulleted
-- List
+- Monodepth2
+- Mannequin Challenge
 
-1. Numbered
-2. List
+#### Human segmentation / tracking
+- YOLACT
+- Tracktor
 
-**Bold** and _Italic_ and `Code` text
+and more! Make sure to checkout our Github org: [https://github.com/plarr2020-team1](https://github.com/plarr2020-team1)
 
-[Link](url) and ![Image](src)
-```
+### Contributers
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Built by
+- Enis Simsar
+- Ehsan Shafiei
+- Dilara Gökay
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/plarr2020-team1/plarr2020-team1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Supervised by Evin Pınar Örnek
