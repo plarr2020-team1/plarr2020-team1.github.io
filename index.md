@@ -30,8 +30,8 @@ and more! Make sure to checkout our Github org: [https://github.com/plarr2020-te
 ### Contributers
 
 Built by
-- Enis Simsar
-- Ehsan Shafiei
-- Dilara Gökay
+- Enis Simsar [(enisimsar)](https://github.com/enisimsar)
+- Ehsan Shafiei [(aestuans)](https://github.com/aestuans)
+- Dilara Gökay [(dilaragokay)](https://github.com/dilaragokay)
 
-Supervised by Evin Pınar Örnek
+Supervised by Evin Pınar Örnek [(evinpinar)](https://github.com/evinpinar)
