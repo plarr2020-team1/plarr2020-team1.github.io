@@ -1,3 +1,5 @@
+# Flatten the Curve: Social Distancing in the Wild
+
 In the time of a pandemic, it is important to keep a minimum distance from others to prevent
 the spread of disease. However, it is not easy to measure this distance in real life. To help this
 issue, we aim to build a visual assistant to track the own distance from others on the street.
@@ -7,7 +9,7 @@ mechanism.
 
 ## Pipeline
 
-![Pipeline](pipeline)
+![Pipeline](/pipeline.png)
 
 ## Application
 
