@@ -45,12 +45,8 @@ Built by
 Supervised by Evin Pınar Örnek [(evinpinar)](https://github.com/evinpinar)
 
 #### References
-<sub>[1] 	Leal-Taixé, Laura, et al. "Motchallenge 2015: Towards a benchmark for multi-target tracking." _arXiv preprint arXiv:1504.01942_ (2015). </sub>    
-
-<sub>[2]   Godard, Clément, et al. "Digging into self-supervised monocular depth estimation." _Proceedings of the IEEE international conference on computer vision_. 2019.   </sub>  
-
-<sub>[3]   Li, Zhengqi, et al. "Learning the depths of moving people by watching frozen people." _Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition_. 2019.   </sub>  
-
-<sub>[4]   Bolya, Daniel, et al. "Yolact: Real-time instance segmentation." _Proceedings of the IEEE international conference on computer vision_. 2019.   </sub> 
-
-<sub>[5]   Bergmann, Philipp, Tim Meinhardt, and Laura Leal-Taixe. "Tracking without bells and whistles." _Proceedings of the IEEE international conference on computer vision._ 2019.</sub>  
+- <sub>[1] 	Leal-Taixé, Laura, et al. "Motchallenge 2015: Towards a benchmark for multi-target tracking." _arXiv preprint arXiv:1504.01942_ (2015). </sub>    
+- <sub>[2]   Godard, Clément, et al. "Digging into self-supervised monocular depth estimation." _Proceedings of the IEEE international conference on computer vision_. 2019.   </sub>  
+- <sub>[3]   Li, Zhengqi, et al. "Learning the depths of moving people by watching frozen people." _Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition_. 2019.   </sub>  
+- <sub>[4]   Bolya, Daniel, et al. "Yolact: Real-time instance segmentation." _Proceedings of the IEEE international conference on computer vision_. 2019.   </sub> 
+- <sub>[5]   Bergmann, Philipp, Tim Meinhardt, and Laura Leal-Taixe. "Tracking without bells and whistles." _Proceedings of the IEEE international conference on computer vision._ 2019.</sub>  
