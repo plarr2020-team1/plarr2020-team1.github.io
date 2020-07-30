@@ -9,11 +9,15 @@ mechanism.
 
 ## Sample Video<sup>[1]</sup>
 
-![Sample](/sample.gif)
+<p align="center">
+  <img src="/sample.gif">
+</p>
 
 ## Pipeline
 
-![Pipeline](/pipeline.png)
+<p align="center">
+  <img src="/pipeline.png">
+</p>
 
 ## Application
 
