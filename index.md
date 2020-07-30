@@ -7,6 +7,10 @@ issue, we aim to build a visual assistant to track the own distance from others 
 Assuming there is a user with a monocular mobile phone camera, webcam, or video we detect humans, estimate their depths from RGB image and build a warning
 mechanism.
 
+## Sample Video
+
+![Sample](/sample.gif)
+
 ## Pipeline
 
 ![Pipeline](/pipeline.png)
